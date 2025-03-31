@@ -16,4 +16,7 @@ The objective of this project is to analyze and visualize Amazon sales data usin
 ✅ Order Fulfillment Rate – Percentage of successfully completed orders.
 ✅ Cost Per Order – Total operational cost divided by the number of orders.
 
- Dashboard image :<a href=" ">
+Dashboard : 
+
+Dashboard image :<a href="https://github.com/vaibhav12341440/Amazon-Sales-Dashboard/blob/main/Screenshot%202025-03-31%20151548.png">
+ 
